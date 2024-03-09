@@ -9,9 +9,8 @@ int main(){
      cout<<"pudh";
       cout<<"both";
         cout<<"hy"<<endl;
-        cout<<"gh";
-   
-  
+    cout<<"dogggy";
+     
 
    
 }
