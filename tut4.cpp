@@ -8,6 +8,12 @@ int main(){
     cout<<"dogggy";
      cout<<"pudh";
       cout<<"both";
+        cout<<"hy"<<endl;
+    cout<<"dogggy";
+     cout<<"pudh";
+      cout<<"both";
+  
+
    
 }
 
